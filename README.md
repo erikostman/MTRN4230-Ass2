@@ -1,6 +1,7 @@
 # MTRN4230 Robotics Assignment 2
 
 This repository will hold all the code for assignment 2 including:
+
 | Member | Task | Description  | Language |
 | ------ | -----| ------------ | -------- |
 | Osborn | Ink Printing | Detect and plan the trajectory for the end effector to simulate printing with edible link | Matlab |

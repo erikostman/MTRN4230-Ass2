@@ -48,6 +48,6 @@ git commit -m"Added a function that moves the robot from a to b"
 # push it to the github codebase 
 git push origin <name>/<task>
 ```
-4. Once your confident it is working, [create a pull request](https://help.github.com/en/articles/creating-a-pull-request)
+4. Once you're confident it is working, [create a pull request](https://help.github.com/en/articles/creating-a-pull-request)
 5. Find the person who will be interacting with your functions and [add them as a reviewer](https://help.github.com/en/articles/requesting-a-pull-request-review)
 6. Once you're both satisfied that the interface makes sense, merge it into `master`

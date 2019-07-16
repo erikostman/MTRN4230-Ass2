@@ -1,0 +1,3 @@
+# local files you dont want to push to github
+.DS_Store
+.vscode/
